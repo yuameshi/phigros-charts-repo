@@ -1,0 +1,19 @@
+{
+	"name":"Burn(Haocore Mix)",
+    "codename":"burn_haocore_mix",
+	"artist":"Daily天利",
+	"musicFile":"BurnHaocoreMix.mp3",	
+	"ezRanking":114,					
+	"hdRanking":514,					
+	"inRanking":1919,						
+	"atRanking":810,					
+	"chartEZ":"burn.sp.json",
+	"chartHD":"burn.sp.json",
+	"chartIN":"burn.sp.json",
+	"chartAT":"burn.sp.json",
+	"chartLegacy":"burn.sp.json",
+	"illustration":"illustration.jpg",
+	"chartDesigner":"Catcats",
+	"illustrator":"knife美工刀",
+	"sliceAudioStart":"62.5"		
+}
