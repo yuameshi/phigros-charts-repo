@@ -1,0 +1,19 @@
+{
+	"name":"Terrasphere",
+	"codename":"allTheTime",
+	"artist": "Rhythm Doctor",
+	"musicFile":"all the time.mp3",
+	"ezRanking":13,
+	"hdRanking":13,
+	"inRanking":13,
+	"atRanking":13,
+	"chartEZ":"All_the_time.pec",
+	"chartHD":"All_the_time.pec",
+	"chartIN":"All_the_time.pec",
+	"chartAT":"All_the_time.pec",
+	"chartLegacy":"All_the_time.pec",
+	"illustration":"All the time.jpg",
+	"chartDesigner":"杭杭",
+	"illustrator":"Rhythm Doctor",
+	"sliceAudioStart":"56.5"
+}
