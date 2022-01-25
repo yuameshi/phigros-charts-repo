@@ -1,0 +1,20 @@
+{
+	"name":"Spasmodic(Haocore Mix)",
+    "codename":"burn_haocore_mix",
+	"artist":"Daily天利",
+	"musicFile":"BurnHaocoreMix.wav",	
+	"ezRanking":1,					
+	"hdRanking":1,					
+	"inRanking":1,						
+	"atRanking":1,					
+	"chartEZ":"meta.json",
+	"chartHD":"meta.json",
+	"chartIN":"meta.json",
+	"chartAT":"meta.json",
+	"chartLegacy":"meta.json",
+	"illustration":"illustration.png",
+	"chartDesigner":"Catcats",
+	"illustrator":"knife美工刀",
+	"sliceAudioStart":"10",	
+	"sliceAudioDuration":"3"			
+}
