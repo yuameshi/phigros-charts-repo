@@ -1,0 +1,19 @@
+{
+	"name":"The Railway",
+	"codename":"theRailway",
+	"artist": "ARForest",
+	"musicFile":"The Railway.mp3",
+	"ezRanking":13,
+	"hdRanking":13,
+	"inRanking":13,
+	"atRanking":13,
+	"chartEZ":"The Railway.pec",
+	"chartHD":"The Railway.pec",
+	"chartIN":"The Railway.pec",
+	"chartAT":"The Railway.pec",
+	"chartLegacy":"The Railway.pec",
+	"illustration":"The Railway.jpg",
+	"chartDesigner":"杭杭",
+	"illustrator":"ARForest",
+	"sliceAudioStart":"78"
+}

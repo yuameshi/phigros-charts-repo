@@ -1,0 +1,19 @@
+{
+	"name":"Materialize Anything",
+	"codename":"materializeAnything",
+	"artist": "anubasu-anubasu",
+	"musicFile":"materialize.mp3",
+	"ezRanking":15,
+	"hdRanking":15,
+	"inRanking":15,
+	"atRanking":15,
+	"chartEZ":"materialize.pec",
+	"chartHD":"materialize.pec",
+	"chartIN":"materialize.pec",
+	"chartAT":"materialize.pec",
+	"chartLegacy":"materialize.pec",
+	"illustration":"materialize.jpg",
+	"chartDesigner":"杭杭",
+	"illustrator":"瑞矢斯 Ration",
+	"sliceAudioStart":"124.7"
+}
