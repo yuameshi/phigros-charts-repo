@@ -1,0 +1,19 @@
+{
+	"name":"Introduction",
+	"codename":"introduction",
+	"artist": "Pigeon Games",
+	"musicFile":"music.1688.ogg",
+	"ezRanking":2,
+	"hdRanking":2,
+	"inRanking":2,
+	"atRanking":2,
+	"chartEZ":"Chart_EZ.444.json",
+	"chartHD":"Chart_EZ.444.json",
+	"chartIN":"Chart_EZ.444.json",
+	"chartAT":"Chart_EZ.444.json",
+	"chartLegacy":"Chart_EZ.444.json",
+	"illustration":"Illustration.1123.jpg",
+	"chartDesigner":"Pigeon Games",
+	"illustrator":"Pigeon Games",
+	"sliceAudioStart":"56.5"
+}
