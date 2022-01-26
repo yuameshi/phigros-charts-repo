@@ -1,0 +1,19 @@
+{
+	"name":"Rrhar'il",
+	"codename":"rrharil",
+	"artist": "Team Grimoire",
+	"musicFile":"music.wav",
+	"ezRanking":7,
+	"hdRanking":12,
+	"inRanking":15,
+	"atRanking":16,
+	"chartEZ":"Chart_EZ.json",
+	"chartHD":"Chart_HD.json",
+	"chartIN":"Chart_IN.json",
+	"chartAT":"Chart_AT.json",
+	"chartLegacy":"Chart_AT.json",
+	"illustration":"illustration.png",
+	"chartDesigner":"RWND -p",
+	"illustrator":"犀牛沱动画工坊",
+	"sliceAudioStart":"84"
+}
