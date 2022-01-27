@@ -20,6 +20,8 @@ chart.json			必须-铺面		(名称可变更)
 line.json			可选-判定线贴图	 (名称可变更)
 illustration.jpg 	必须-曲绘		 (名称可变更)
 ```
+> 音乐要求：MP3/OGG/WAV等常见格式，大小小于5MB
+
 在`meta.json`内填入歌曲元信息（见下），注意要删除注释，使用英文字符，且双引号需要添加`\`转译。
 ```javascript
 {
@@ -40,9 +42,10 @@ illustration.jpg 	必须-曲绘		 (名称可变更)
 	"illustration":"SpasmodicSP.png",	//曲绘
 	"chartDesigner":"Phigros Spasming Team \"無極病院\"",//谱师
 	"illustrator":"笔记RE",				//曲绘制作者
-	"sliceAudioStart":"10",				//预览音频切片开始时间（秒）
-	"sliceAudioDuration":"3"			//预览音频切片持续时间（秒）
+	"sliceAudioStart":"10"				//预览音频切片开始时间（秒），预览音频持续时间为15秒
 }
 ```
 
-完成后，将图表文件夹（您之前创建的）上传到 *你的Git仓库*（您之前复刻的那个）下的 `charts` 文件夹，然后打开一个新的 `Pull Request` 然后等待合并。
+完成后，将谱面文件夹（您之前创建的）上传到 *你的Git仓库*（您之前复刻的那个），然后打开一个新的 `Pull Request` 然后等待合并。
+
+# 请最好一次Commit搞定
