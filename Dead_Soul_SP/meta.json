@@ -1,0 +1,19 @@
+{
+	"name":"Dead Soul",
+	"codename":"Dead_Soul_SP",
+	"artist": "Sound Souler",
+	"musicFile":"Dead Soul.mp3",
+	"ezRanking":0,
+	"hdRanking":4,
+	"inRanking":0,
+	"atRanking":1,
+	"chartEZ":"Chart_SP.json",
+	"chartHD":"Chart_SP.json",
+	"chartIN":"Chart_SP.json",
+	"chartAT":"Chart_SP.json",
+	"chartLegacy":"Chart_SP.json",
+	"illustration":"Dead Soul.png",
+	"chartDesigner":"阿爽",
+	"illustrator":"Photonskyto",
+	"sliceAudioStart":"40"
+}

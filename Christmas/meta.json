@@ -1,0 +1,19 @@
+{
+	"name":"Christmas",
+	"codename":"Christmas",
+	"artist": "Phigros Sound Team \"姜米條\"",
+	"musicFile":"Christmas.mp3",
+	"ezRanking":1,
+	"hdRanking":2,
+	"inRanking":2,
+	"atRanking":4,
+	"chartEZ":"Chart_HD.json",
+	"chartHD":"Chart_HD.json",
+	"chartIN":"Chart_HD.json",
+	"chartAT":"Chart_HD.json",
+	"chartLegacy":"Chart_HD.json",
+	"illustration":"Christmas.png",
+	"chartDesigner":"Catcats",
+	"illustrator":"未标记",
+	"sliceAudioStart":"8"
+}

@@ -1,0 +1,19 @@
+{
+	"name":"Destination",
+	"codename":"Destination",
+	"artist": "姜米條&RocketLant",
+	"musicFile":"Destination.mp3",
+	"ezRanking":3,
+	"hdRanking":9,
+	"inRanking":13,
+	"atRanking":15,
+	"chartEZ":"Chart_EZ.json",
+	"chartHD":"Chart_HD.json",
+	"chartIN":"Chart_IN.json",
+	"chartAT":"Chart_AT.json",
+	"chartLegacy":"Chart_AT.json",
+	"illustration":"Destination.png",
+	"chartDesigner":"Journey's End",
+	"illustrator":"Rallxkurara",
+	"sliceAudioStart":"55"
+}

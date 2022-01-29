@@ -1,0 +1,19 @@
+{
+	"name":"Anomaly",
+	"codename":"Anomaly",
+	"artist": "姜米條&RocketLant",
+	"musicFile":"Anomaly.mp3",
+	"ezRanking":7,
+	"hdRanking":7,
+	"inRanking":14,
+	"atRanking":14,
+	"chartEZ":"Chart_EZ.json",
+	"chartHD":"Chart_HD.json",
+	"chartIN":"Chart_IN.json",
+	"chartAT":"Chart_IN.json",
+	"chartLegacy":"Chart_IN.json",
+	"illustration":"Anomaly.png",
+	"chartDesigner":"NerSAN",
+	"illustrator":"姜米條",
+	"sliceAudioStart":"65"
+}

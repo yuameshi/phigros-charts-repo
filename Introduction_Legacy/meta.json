@@ -1,0 +1,19 @@
+{
+	"name":"Introduction",
+	"codename":"Introduction_Legacy",
+	"artist": "姜米條",
+	"musicFile":"Introduction.mp3",
+	"ezRanking":2,
+	"hdRanking":2,
+	"inRanking":2,
+	"atRanking":2,
+	"chartEZ":"Chart_EZ.json",
+	"chartHD":"Chart_EZ.json",
+	"chartIN":"Chart_EZ.json",
+	"chartAT":"Chart_EZ.json",
+	"chartLegacy":"Chart_EZ.json",
+	"illustration":"Introduction.png",
+	"chartDesigner":"Catcats",
+	"illustrator":"Zris",
+	"sliceAudioStart":"70"
+}
