@@ -1,0 +1,19 @@
+{
+	"name":"Introduction Legacy",
+	"codename":"Introduction_Legacy",
+	"artist": "姜米條",
+	"musicFile":"Introduction Legacy.mp3",
+	"ezRanking":2,
+	"hdRanking":2,
+	"inRanking":2,
+	"atRanking":2,
+	"chartEZ":"Introduction_Legacy.json",
+	"chartHD":"Introduction_Legacy.json",
+	"chartIN":"Introduction_Legacy.json",
+	"chartAT":"Introduction_Legacy.json",
+	"chartLegacy":"Introduction_Legacy.json",
+	"illustration":"Introduction Legacy.png",
+	"chartDesigner":"Catcats",
+	"illustrator":"Zris",
+	"sliceAudioStart":"70"
+}
