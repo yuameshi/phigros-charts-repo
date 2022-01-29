@@ -1,0 +1,19 @@
+{
+	"name":"狂喜蘭舞",
+	"codename":"Kuang_Xi_Lan_Wu",
+	"artist": "LeaF",
+	"musicFile":"狂喜蘭舞.mp3",
+	"ezRanking":14,
+	"hdRanking":14,
+	"inRanking":16,
+	"atRanking":16,
+	"chartEZ":"狂喜蘭舞_IN_Legacy.json",
+	"chartHD":"狂喜蘭舞_IN.json",
+	"chartIN":"狂喜蘭舞_Legacy.json",
+	"chartAT":"狂喜蘭舞.json",
+	"chartLegacy":"狂喜蘭舞.json",
+	"illustration":"狂喜蘭舞.png",
+	"chartDesigner":"Catcats aka. 無極 VS H.C.C.",
+	"illustrator":"DoublePian",
+	"sliceAudioStart":"61"
+}
