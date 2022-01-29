@@ -22,6 +22,8 @@ illustration.jpg 	必须-曲绘		 (名称可变更)
 ```
 > 音乐要求：MP3/OGG/WAV等常见格式，大小小于5MB
 
+> 曲绘要求：JPG/PNG等常见格式(WebP没测试过)，大小小于1MB
+
 在`meta.json`内填入歌曲元信息（见下），注意要删除注释，使用英文字符，且双引号需要添加`\`转译。
 ```javascript
 {
