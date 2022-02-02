@@ -1,0 +1,19 @@
+{
+	"name":"TSLove",
+	"codename":"TSLove",
+	"artist":"O2i3",
+	"musicFile":"audio.ogg",
+	"ezRanking":14,
+	"hdRanking":14,
+	"inRanking":14,
+	"atRanking":14,
+	"chartEZ":"chart.pec",
+	"chartHD":"chart.pec",
+	"chartIN":"chart.pec",
+	"chartAT":"chart.pec",
+	"chartLegacy":"chart.pec",
+	"illustration":"bg.jpg",
+	"chartDesigner":"Eroslon_Dusk",
+	"illustrator":"O2i3",
+	"sliceAudioStart":"79"
+}
