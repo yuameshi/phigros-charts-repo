@@ -27,24 +27,28 @@ illustration.jpg 	必须-曲绘		 (名称可变更)
 在`meta.json`内填入歌曲元信息（见下），注意要删除注释，使用英文字符，且双引号需要添加`\`转译。
 ```javascript
 {
-	"name":"Spasmodic(Haocore Mix)",	//曲名
-	"codename":"sample",				//你的文件夹名称
-	"artist":"姜米條-天利",				//曲师
-	"musicFile":"SpasmodicSP.ogg",		//音乐文件
-	"ezRanking":1,						//EZ定数（可带小数）
-	"hdRanking":1,						//HD定数（可带小数,可与上一个相同）
-	"inRanking":1,						//IN定数（可带小数,可与上一个相同）
-	"atRanking":1,						//AT定数（可带小数,可与上一个相同）
-	"lineTexture":"line.json",			//可选-判定线贴图
-	"chartEZ":"SpasmodicSP.json",		//EZ谱面（可与上一个相同）
-	"chartHD":"SpasmodicSP.json",		//HD谱面（可与上一个相同）
-	"chartIN":"SpasmodicSP.json",		//IN谱面（可与上一个相同）
-	"chartAT":"SpasmodicSP.json",		//AT谱面（可与上一个相同）
-	"chartLegacy":"SpasmodicSP.json",	//Legacy谱面（可与上一个相同）
-	"illustration":"SpasmodicSP.png",	//曲绘
-	"chartDesigner":"Phigros Spasming Team \"無極病院\"",//谱师
-	"illustrator":"笔记RE",				//曲绘制作者
-	"sliceAudioStart":"10"				//预览音频切片开始时间（秒），预览音频持续时间为15秒
+	"name":"Rrhar'il",								//曲名
+	"codename":"rrharil",							//代号(你的文件夹名称)
+	"artist": "Team Grimoire",						//曲师
+	"musicFile":"music.ogg",						//音乐文件名
+	"ezRanking":7,									//EZ定数（可带小数）
+	"hdRanking":12,									//HD定数（可带小数,可与上一个相同）
+	"inRanking":15,									//IN定数（可带小数,可与上一个相同）
+	"atRanking":16,									//AT定数（可带小数,可与上一个相同）
+	"lineTexture":"line.json",						//可选-判定线贴图文件名
+	"chartEZ":"Chart_EZ.json",						//EZ谱面（可与上一个相同）
+	"chartHD":"Chart_HD.json",						//HD谱面（可与上一个相同）
+	"chartIN":"Chart_IN.json",						//IN谱面（可与上一个相同）
+	"chartAT":"Chart_AT.json",						//AT谱面（可与上一个相同）
+	"chartLegacy":"Chart_AT.json",					//Legacy谱面（可与上一个相同）
+	"illustration":"illustration.jpg",				//曲绘文件名
+	"ezChartDesigner":"RDRT -p 19:08:31",			//谱师(当此属性存在时将忽略所有其他谱师设定)
+	"ezChartDesigner":"RDRT -p 19:08:31",			//EZ谱师
+	"hdChartDesigner":"RDRT -p 20:02:21",			//HD谱师
+	"inChartDesigner":"RDRT -p 20:08:31",			//IN谱师
+	"atChartDesigner":"RWND -p 16493:62786:92551",	//AT谱师
+	"illustrator":"犀牛沱动画工坊",					//曲绘画师
+	"sliceAudioStart":"84.5"						//预览音频切片开始时间（秒），预览音频持续时间为15秒
 }
 ```
 
