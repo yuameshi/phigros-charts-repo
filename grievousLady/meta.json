@@ -1,0 +1,19 @@
+{
+	"name":"Grievous Lady",
+	"codename":"grievousLady",
+	"artist": "Team Grimoire vs Laur",
+	"musicFile":"48154381.ogg",
+	"ezRanking":15,
+	"hdRanking":15,
+	"inRanking":15,
+	"atRanking":15,
+	"chartEZ":"48154381.pec",
+	"chartHD":"48154381.pec",
+	"chartIN":"48154381.pec",
+	"chartAT":"48154381.pec",
+	"chartLegacy":"48154381.pec",
+	"illustration":"48154381.jpg",
+	"chartDesigner":"Grievous Skyline",
+	"illustrator":"シエラ",
+	"sliceAudioStart":"56.5"
+}
