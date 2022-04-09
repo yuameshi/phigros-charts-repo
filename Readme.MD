@@ -1,6 +1,6 @@
 # 这里是哪里
 
-这里是[Phigros HTML5](https://github.com/HanHan233/phigros-html5)的谱面仓库，用于储存谱面文件
+这里是[Phigros HTML5](https://github.com/Yuameshi/PhiCommunity)的谱面仓库，用于储存谱面文件
 
 # 提交谱面
 
